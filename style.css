@@ -1,0 +1,82 @@
+body {
+  background-color: #c9c5bf;
+}
+
+h1 {
+    color:#292721;
+    outline: solid;
+    padding: 5px 5px 5px;
+    text-align: center;
+    font-family: Georgia;
+}
+h2 {
+  background-color: #999187;
+  color: #4f4d49;
+}
+
+h3 {
+   background-color: #a8a39d;
+   color: #4f4d49;
+   font-family: Georgia;
+}
+
+p {
+    font-family: Verdana;
+    color: #4f4d49;
+}
+
+pre {
+     font-family: Verdana;
+     color: #4f4d49;
+     font-size: 13px;
+}
+
+li {
+    font-family:Verdana;
+    color: #4f4d49;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5c5850;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ad9e8c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #5c5850;
+}
+
+a:link {
+  color: #d9d3cc;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #dbd3ca;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #a69c92;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #a17f5d;
+  background-color: transparent;
+  text-decoration: underline;
+}
